@@ -1,4 +1,4 @@
-# InMAP-PAVITRA
+# Beta-testing PAVITRA-InMAP
 
 PAVITRA-InMAP is a fork of the open-source [InMAP](https://github.com/spatialmodel/inmap) air pollution model, being adapted by IIT Bombay together with UC Berkeley, the University of Washington, and CSTEP to support air quality modeling for India. 
 
