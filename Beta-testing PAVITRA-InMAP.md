@@ -32,8 +32,7 @@ Running locally needs a lot of RAM for full-scale data. [Google Colab](https://c
 
 ## Result
 
-![PM2.5 concentration heatmap](./images/la_test_heatmap.png)
-
+![PM2.5 concentration heatmap](./inmao.png)
 The map shows the estimated total PM2.5 concentration across the LA test grid. There's a clear pollution hotspot near the single test emission source, fading outward with distance, an expected pattern for a point source, and a good sign that the model and pipeline are producing physically sensible output. The emissions input here is a placeholder test file, not real-world data, so the absolute numbers don't represent actual air quality.
 
 ## Limitations & Challenges
